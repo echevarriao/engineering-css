@@ -1,0 +1,709 @@
+/* CSS for engineering.uconn.edu */
+
+/* front page discover */
+h1#discover-engineering {
+margin-top:25px
+}
+
+h1#discover-engineering > span#discover {
+font-size:50px!important
+}
+
+/* for pdfs */
+a.button-engr > span.flag {
+color:#fff!important
+}
+
+/* for pdfs */
+a.button-engr-gray > span.flag {
+color:#fff!important
+}
+
+/* front page engineering */
+h1#discover-engineering > span#engineering {
+font-size:75px!important
+}
+
+/* for pdfs */
+.flag {
+color:#fff!important
+}
+
+/* front page engineering */
+h1#discover-engineering > span#engineering {
+font-size:75px!important
+}
+
+/* navigation for support button */
+.navbar-default .navbar-nav > li#menu-item-26842 {
+float:right
+}
+
+.navbar-default .navbar-nav > li#menu-item-26842 > a {
+color:#fff!important;
+border-radius:15px;
+padding:10px 26px;
+background-color:#d43900
+}
+
+/* for navigation bar */
+.navbar-nav {
+display:block;
+width:100%
+}
+
+/* uconn header container */
+#uconn-header-container.white::after {
+background:#fff
+}
+
+/* page titles */
+.page-title-section {
+background-color:#000e2f;
+min-height:500px
+}
+
+/* page titles */
+.page-title-section .contact-menu h1,.page-title-section .page-title h1 {
+margin-top:25px;
+color:#fff;
+letter-spacing:5px;
+text-transform:capitalize;
+font-family:'Proxima Nova',arial,helvetica,sans-serif;
+font-size:60px;
+text-align:center
+}
+
+/* individual pages banner background */
+#staff-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/castleman191105a0193.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/castleman191105a0193.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/castleman191105a0193.jpg)!important
+}
+
+#report-archive-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/humanities190130b316.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/humanities190130b316.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/humanities190130b316.jpg)!important
+}
+
+#research-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/BMETeam-16-8.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/BMETeam-16-8.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/BMETeam-16-8.jpg)!important
+}
+
+#centers-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52900664674_f027f9d05f_o.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52900664674_f027f9d05f_o.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52900664674_f027f9d05f_o.jpg)!important
+}
+
+#innovation-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/electrical-shop-soldering-1.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/electrical-shop-soldering-1.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/electrical-shop-soldering-1.jpg)!important
+}
+
+#leadership-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/campaign_school_230224a0520.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/campaign_school_230224a0520.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/campaign_school_230224a0520.jpg)!important
+}
+
+#events-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/092923-RadenkaMaricInauguration-5.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/092923-RadenkaMaricInauguration-5.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/092923-RadenkaMaricInauguration-5.jpg)!important
+}
+
+#honoring-engineers-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/NewSign190508b029.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/NewSign190508b029.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/NewSign190508b029.jpg)!important
+}
+
+#rising-star-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Spirit190328b029.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Spirit190328b029.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Spirit190328b029.jpg)!important
+}
+
+#academy-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/180320a077.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/180320a077.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/180320a077.jpg)!important
+}
+
+#diversity-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/vergnano_6614-scaled-1.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/vergnano_6614-scaled-1.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/vergnano_6614-scaled-1.jpg)!important
+}
+
+#corporate-engagement-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Wilbur_Cross_night.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Wilbur_Cross_night.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Wilbur_Cross_night.jpg)!important
+}
+
+#alumni-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52900655556_806a7f2937_o.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52900655556_806a7f2937_o.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52900655556_806a7f2937_o.jpg)!important
+}
+
+#undergraduate-programs-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52901038405_94ec598bd3_o.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52901038405_94ec598bd3_o.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52901038405_94ec598bd3_o.jpg)!important
+}
+
+#advanced-education-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/frontpage-engineer-using-robotic-metrology-1900x593-1.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/frontpage-engineer-using-robotic-metrology-1900x593-1.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/frontpage-engineer-using-robotic-metrology-1900x593-1.jpg)!important
+}
+
+#graduate-programs-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52883711365_8b019823a8_o.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52883711365_8b019823a8_o.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52883711365_8b019823a8_o.jpg)!important
+}
+
+#industry-advisory-board-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52071040828_a0ba829449_o.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52071040828_a0ba829449_o.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52071040828_a0ba829449_o.jpg)!important
+}
+
+#support-engineering-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Holster_231006a028.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Holster_231006a028.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Holster_231006a028.jpg)!important
+}
+
+#deans-message-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Fall_scenic_DJI_0619.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Fall_scenic_DJI_0619.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Fall_scenic_DJI_0619.jpg)!important
+}
+
+#at-a-glance-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52499747313_c2315386df_o.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52499747313_c2315386df_o.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/52499747313_c2315386df_o.jpg)!important
+}
+
+#contact-menu-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/contact-menu.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/contact-menu.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/contact-menu.jpg)!important
+}
+
+#resources-menu-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/professor-jasna-in-lab.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/professor-jasna-in-lab.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/professor-jasna-in-lab.jpg)!important
+}
+
+#research-innovation-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/research-menu.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/research-menu.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/research-menu.jpg)!important
+}
+
+#newsletter-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/062023-JonathanXVFirstShoots-9.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/062023-JonathanXVFirstShoots-9.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/062023-JonathanXVFirstShoots-9.jpg)!important
+}
+
+#news-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Reception170125c118.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Reception170125c118.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/Reception170125c118.jpg)!important
+}
+
+#engage-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/times-square160113a629.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/times-square160113a629.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/times-square160113a629.jpg)!important
+}
+
+#academics-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/study161024b019.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/study161024b019.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/study161024b019.jpg)!important
+}
+
+#about-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/bahar-banner-experiment.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/bahar-banner-experiment.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/bahar-banner-experiment.jpg)!important
+}
+
+/* for front page banner background */
+#pg-21-0 > .panel-row-style {
+background:#000e2f!important;
+background-position:center center!important;
+background-size:cover!important;
+background-image:-moz-linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/professor-jasna-in-lab-1.jpg)!important;
+background-image:-webkit-linear-gradient(to bottom,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/professor-jasna-in-lab-1.jpg)!important;
+background-image:linear-gradient(to top,rgba(0,5,18,0) 39%,rgba(4,4,17,1)),url(https://engineering.uconn.edu/wp-content/uploads/sites/3738/2023/10/professor-jasna-in-lab-1.jpg)!important
+}
+
+/* for news stories */
+.news-stories a span.glypicon-new-window,.news-stories a span.glypicon {
+display:none!important
+}
+
+.news-stories .uctoday-list-item {
+position:relative;
+min-height:170px;
+display:block
+}
+
+.news-stories .uctoday-img-container {
+width:35%;
+position:relative;
+padding-bottom:5px;
+float:right
+}
+
+.news-stories .uctoday-title-container {
+width:65%;
+padding:10px;
+position:relative;
+float:left
+}
+
+.news-stories .uctoday-list-item .uctoday-cell-title {
+font-size:24px!important;
+font-weight:700
+}
+
+.news-stories .uctoday-img-container .uctoday-cell-image {
+height:auto;
+width:100%;
+position:relative;
+top:0;
+bottom:0;
+left:0;
+right:0
+}
+
+#page #content .panel-grid .widget .uctoday-plugin .uctoday-read-more-container a {
+background-color:#000e2f;
+text-transform:uppercase;
+text-decoration:none;
+font-weight:700;
+color:#fff!important;
+background-image:none;
+border:1px solid #ff5733
+}
+
+#page #content .panel-grid .widget .uctoday-plugin .uctoday-read-more-container a:hover {
+background-image:linear-gradient(90deg,transparent 50%,#d43900 50%);
+background-color:#fff;
+border:1px solid #000e2f;
+color:#000e2f!important;
+transition:.35s
+}
+
+/* front page boxes */
+.undergrad-grad-profed h2 {
+font-size:25px
+}
+
+#banner-section {
+min-height:600px
+}
+
+div#pg-21-1 {
+height:0
+}
+
+div#boxes-section {
+position:relative;
+top:-212px
+}
+
+.undergrad-grad-profed-row {
+}
+
+.undergrad-grad-profed {
+background-color:#000e2f
+}
+
+.undergrad-grad-profed p,.undergrad-grad-profed h1,.undergrad-grad-profed h2,.undergrad-grad-profed h3 {
+color:#fff
+}
+
+/* footer social icons */
+#footers #mega-footer .widget.widget_simple-social-icons a {
+padding:6px 19px;
+border-radius:10px;
+font-size:19px;
+background-color:#d43900;
+border:3px solid #d43900!important;
+background:transparent;
+background-color:transparent;
+background-position-x:0;
+background-position-y:0;
+background-repeat:repeat;
+background-image:none;
+background-size:auto;
+background-image:-webkit-linear-gradient(90deg,transparent 50%,#d43900 50%);
+background-image:linear-gradient(90deg,transparent 50%,#d43900 50%);
+background-size:226%;
+background-repeat:no-repeat;
+background-position:100%;
+-webkit-transition:all 400ms ease-in-out;
+transition:all 400ms ease-in-out;
+color:#fff!important
+}
+
+#footers #mega-footer .widget.widget_simple-social-icons a:active,#footers #mega-footer .widget.widget_simple-social-icons a:hover,#footers #mega-footer .widget.widget_simple-social-icons a:focus {
+background-position:0;
+color:#d43900!important;
+background-color:transparent
+}
+
+/* facts and figures */
+.facts-figures h3 {
+font-size:30px
+}
+
+/* footer section */
+#footers {
+background:#000e2f
+}
+
+#footers > footer > div.container > ul#uc-footer-links > li,#footers > footer > div.container > ul#uc-footer-links > li > a,#footers a,#footers * {
+color:#fff!important
+}
+
+#footers .table > thead > tr > th,#footers .table > thead > tr > td,#footers .table > tbody > tr > th,#footers .table > tbody > tr > td,#footers .table > tfoot > tr > th,#footers .table > tfoot > tr > td {
+border-top:0
+}
+
+/* define anchor buttons */
+a.button-engr-blue {
+background-color:#000e2f;
+text-transform:uppercase;
+text-decoration:none;
+font-weight:700;
+color:#fff!important;
+display:inline-block;
+border:1px solid #E5E4E2
+}
+
+a.button-engr-blue:hover {
+background-color:#fff;
+border:1px solid #000e2f;
+color:#000e2f!important;
+transition:.35s
+}
+
+a.button-engr {
+background-color:#d43900;
+text-transform:uppercase;
+text-decoration:none;
+font-weight:700;
+color:#fff!important;
+display:inline-block;
+border:1px solid #ff5733
+}
+
+a.button-engr:hover {
+background-color:#fff;
+border:1px solid #ff5733;
+color:#ff5733!important;
+transition:.35s
+}
+
+a.button-engr-gray {
+background-color:gray;
+text-transform:uppercase;
+text-decoration:none;
+font-weight:700;
+display:inline-block;
+color:#fff!important;
+border:1px solid #c1c1c1
+}
+
+a.button-engr-gray:hover {
+background-color:#fff;
+border:1px solid gray;
+color:gray!important;
+transition:.35s
+}
+
+.radius {
+border-radius:25px
+}
+
+.small {
+padding:.5rem
+}
+
+.large {
+padding:1.75rem
+}
+
+.medium {
+padding:1.5rem
+}
+
+/* remove header */
+div#page > header#masthead > div#site-title {
+display:none
+}
+
+#uconn-header-container {
+background-color:#fff;
+color:#000e2f
+}
+
+#wordmark {
+color:#000e2f
+}
+
+#university-of-connecticut {
+border-left:2px solid #000e2f;
+color:#000e2f;
+padding:1px 0 0 10px
+}
+
+#about-deans-message-row {
+min-height:500px
+}
+
+/* smaller screen sizes less then 990px */
+@media screen and (max-width: 990px) {
+.news-stories .uctoday-list-item {
+position:relative;
+min-height:auto;
+display:inline-block
+}
+
+.news-stories .uctoday-title-container {
+width:100%;
+float:left
+}
+
+.news-stories .uctoday-img-container {
+width:100%;
+float:right
+}
+
+div.quick-nav-row > div.panel-grid-cell {
+margin-bottom:0!important
+}
+
+.home #content .panel-grid .widget {
+margin:0
+}
+
+div.undergrad-grad-profed-row > div {
+margin-bottom:0!important
+}
+
+div.undergrad-grad-profed-row {
+padding-top:10px
+}
+
+div.undergrad-grad-profed > div.so-panel > div.panel-widget-style {
+padding:0!important
+}
+
+.medium {
+padding:10px
+}
+
+.undergrad-grad-profed h2 {
+font-size:100%
+}
+
+div#boxes-section {
+background-color:#000e2f;
+position:relative;
+height:auto;
+top:auto
+}
+
+.undergrad-grad-profed {
+min-height:auto
+}
+
+#banner-section {
+min-height:auto
+}
+
+.white #site-abbreviation {
+visibility:hidden
+}
+
+.white #site-abbreviation::after {
+content:"College of Engineering";
+visibility:visible;
+display:block;
+color:#000E2F
+}
+
+div#pg-21-1 {
+height:auto
+}
+
+div#boxes-section {
+position:relative;
+top:0
+}
+
+a.button-engr-blue {
+margin-top:10px;
+font-size:12px;
+display:inline-block
+}
+
+a.button-engr {
+margin-top:10px;
+font-size:12px;
+display:inline-block
+}
+
+a.button-engr-gray {
+margin-top:10px;
+font-size:12px;
+display:inline-block
+}
+
+.page-title-section {
+min-height:auto
+}
+
+/* set banner backgrounds to be none and only use color for a background */
+#staff-ID,#newsletter-ID,#academics-ID,#contact-menu-ID,#research-ID,#resources-menu-ID,#research-innovation-ID,#news-ID,#engage-ID,#academics-ID,#about-ID,#report-archive-ID,#research-ID,#centers-ID,#innovation-ID,#leadership-ID,#events-ID,#honoring-engineers-ID,#rising-star-ID,#academy-ID,#diversity-ID,#corporate-engagement-ID,#alumni-ID,#undergraduate-programs-ID,#advanced-education-ID,#graduate-programs-ID,#industry-advisory-board-ID,#support-engineering-ID,#deans-message-ID,#at-a-glance-ID {
+background-position:center center!important;
+background-size:cover!important;
+background-image:none!important
+}
+
+.page-title-section .contact-menu h1,.page-title-section .page-title h1 {
+font-size:100%;
+margin-top:15px;
+text-align:left
+}
+
+.navbar-default .navbar-nav > li#menu-item-26842 {
+float:left
+}
+
+.navbar-default .navbar-nav > li#menu-item-26842 > a {
+color:#000e2f!important;
+border-radius:0;
+padding:5px;
+background-color:#fff
+}
+
+h1#discover-engineering > span#discover,h1#discover-engineering > span#engineering {
+font-size:100%!important
+}
+
+#pg-21-0 > .panel-row-style {
+min-height:250px
+}
+
+h1#discover-engineering {
+display:none
+}
+
+a.button-engr {
+text-align:center
+}
+
+#pgc-w651ad85971c8e-0-0,#pgc-w651ad85971c8e-0-1 {
+margin-bottom:0!important
+}
+}
+
+/* control color schema for menu greater then 767px */
+@media (min-width: 767px) {
+#masthead .navbar-default .navbar-collapse .navbar-nav > li > a::after {
+background:#d43900;
+background:-moz-linear-gradient(left,#fff 0%,#d43900 100%);
+background:-webkit-linear-gradient(left,#fff 0%,#d43900 100%);
+background:linear-gradient(to right,#fff 0%,#d43900 100%)
+}
+
+#masthead .navbar-default .navbar-collapse .navbar-nav > li.active::after,#masthead .navbar-default .navbar-collapse .navbar-nav > li.current-menu-ancestor::after {
+background:#053c7f;
+background:-moz-linear-gradient(left,#d43900 0%,#d43900 100%);
+background:-webkit-linear-gradient(left,#d43900 0%,#d43900 100%);
+background:linear-gradient(to right,#d43900 0%,#d43900 100%)
+}
+}
+
+/* for cell phones */
+@media and screen (max-width: 480px) {
+h1,h2 {
+font-size:100%!important
+}
+}
